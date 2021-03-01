@@ -33,7 +33,7 @@
     "redux-persist": "^6.0.0",
     "rxjs": "^6.5.4",
     "styled-components": "^5.0.1",
-    "three": "^0.115.0",
+    "three": "^0.125.0",
     "typescript": "~3.7.2",
     "typescript-fsa": "^3.0.0",
     "typescript-fsa-reducers": "^1.2.1"
